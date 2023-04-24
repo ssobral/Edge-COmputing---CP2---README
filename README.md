@@ -1,4 +1,4 @@
-# Edge-COmputing---CP2---README
+# Edge-Computing---CP2---README
 
 # Checkpoint 2
 
@@ -77,7 +77,7 @@ Finalizando os sensores, podemos adicionar o buzzer:
    - Jumper cables.
 
 ## Video Explicativo
-   - 
+   - https://drive.google.com/file/d/1Nrjb1TQQlC53qLwR3Mbx9-K86HNMi1Sd/view?usp=sharing
    
 ## Projeto no Tinkercad
    - https://www.tinkercad.com/things/h0JlAGi9phX-edge-computing-cp2/editel?sharecode=3tSuf4tAIvBjvFOCKOfIhCWa1yIDzIUsrhb1YiZwMBo
